@@ -7,7 +7,7 @@ Solution for GPS based T&amp;A system.
 - Install SCRCPY (https://sites.google.com/view/raspberryargentina/scrcpy-on-raspberry-pi-4b)
   * Another method for install scrcpy on raspberry pi (https://snapcraft.io/install/scrcpy/raspbian)
   * scrcpy github: https://github.com/Genymobile/scrcpy
-  * scrcpy support >= Android 5.0(Lollipop)
+  * scrcpy support >= Android 5.0(Lollipop) - https://github.com/Genymobile/scrcpy
   * fastest mirroring and control - pikiss and scrcpy (https://www.youtube.com/watch?v=ciMx7hWYJE4)
 
 ### 2. Android Phone
